@@ -19,7 +19,7 @@ nav{
     letter-spacing: 5px;
     font-size: 30px;
     font-weight: bold;
-    margin-right: 500px;
+    margin-right: 25%;
 }
 
 .nav-links{
@@ -55,4 +55,22 @@ nav{
     margin-right: 60%;
     font-family: 'Oxygen', sans-serif;
     color: white;
+}
+
+.box {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.808);
+    height: 450px;
+    width: 75%;
+    margin-top: 100px;
+    margin-left: 12.5%;
+    border-radius: 5px;
+}
+
+.textbox {
+    position: absolute;
+    font-family: 'Oxygen', sans-serif;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: #000;
 }
